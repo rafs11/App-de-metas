@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "value": "Andar 20 min por dia",
+    "checked": false
+  },
+  {
+    "value": "Beber 3L de água",
+    "checked": false
+  }
+]
